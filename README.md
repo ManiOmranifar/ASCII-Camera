@@ -387,20 +387,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **SQLite**: Public Domain
 - **Python**: PSF License
 
-## 📞 **Support & Community**
-
-### **Getting Help**
-- **Documentation**: Comprehensive guides and tutorials
-- **Issue Tracker**: Bug reports and feature requests
-- **Community Forum**: User discussions and tips
-- **Email Support**: Direct developer contact
-
-### **Social Media**
-- **Discord**: Real-time community chat
-- **Reddit**: r/ASCIIArt community
-- **Twitter**: Latest updates and showcases
-- **YouTube**: Tutorials and demonstrations
-
 ---
 
 **🎉 Experience the future of ASCII art with Ultra Professional ASCII Camera Pro Max!**
