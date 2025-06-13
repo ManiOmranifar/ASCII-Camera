@@ -389,6 +389,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**🎉 Experience the future of ASCII art with Ultra Professional ASCII Camera Pro Max!**
+**🎉 Experience the future of ASCII art with Ultra Professional ASCII Camera Pro**
 
 *Transform your ordinary camera into an extraordinary artistic instrument with cutting-edge effects, professional-grade controls, and AI-enhanced processing capabilities.*
